@@ -10,8 +10,8 @@ on:
     
     outputs:
       result:
-        description: 'The result of the deployment Operation  
-        value: ${{ jobs.deploy.outputs.outcome }} 
+        description: 'The result of the deployment Operation'
+        value: ${{ jobs.deploy.outputs.outcome }}
 
 jobs:
   deploy:
