@@ -1,4 +1,4 @@
-name: Controlled Execution Flow
+name: Using Reusable Workflow
 on:
   push:
     branches:
